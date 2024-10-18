@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\litov\\Desktop\\cross-platform-programming-lab3\\calculator\\calculator.csproj": {}
+    "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab3\\calculator\\calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\litov\\Desktop\\cross-platform-programming-lab3\\calculator\\calculator.csproj": {
+    "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab3\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\litov\\Desktop\\cross-platform-programming-lab3\\calculator\\calculator.csproj",
+        "projectUniqueName": "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab3\\calculator\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "C:\\Users\\litov\\Desktop\\cross-platform-programming-lab3\\calculator\\calculator.csproj",
+        "projectPath": "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab3\\calculator\\calculator.csproj",
         "packagesPath": "C:\\Users\\litov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\litov\\Desktop\\cross-platform-programming-lab3\\calculator\\obj\\",
+        "outputPath": "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab3\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\litov\\AppData\\Roaming\\NuGet\\NuGet.Config",

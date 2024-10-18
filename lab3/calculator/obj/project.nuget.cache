@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0h/ipqvOZMQ=",
+  "dgSpecHash": "2NaxR5410Co=",
   "success": true,
-  "projectFilePath": "C:\\Users\\litov\\Desktop\\cross-platform-programming-lab3\\calculator\\calculator.csproj",
+  "projectFilePath": "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab3\\calculator\\calculator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\litov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
     "C:\\Users\\litov\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\litov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
     "C:\\Users\\litov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
     "C:\\Users\\litov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
   ],
