@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE9430-D0B6-4161-8AD6-A5416074B27B}|students\\students.csproj|c:\\users\\litov\\desktop\\dotnet-labs\\lab4\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE9430-D0B6-4161-8AD6-A5416074B27B}|students\\students.csproj|solutionrelative:students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE9430-D0B6-4161-8AD6-A5416074B27B}|students\\students.csproj|c:\\users\\litov\\desktop\\dotnet-labs\\lab4\\students\\students.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DFAE9430-D0B6-4161-8AD6-A5416074B27B}|students\\students.csproj|solutionrelative:students\\students.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "students",
+              "DocumentMoniker": "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab4\\students\\students.csproj",
+              "RelativeDocumentMoniker": "students\\students.csproj",
+              "ToolTip": "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab4\\students\\students.csproj",
+              "RelativeToolTip": "students\\students.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T10:32:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab4\\students\\Program.cs",
+              "RelativeDocumentMoniker": "students\\Program.cs",
+              "ToolTip": "C:\\Users\\litov\\Desktop\\dotnet-labs\\lab4\\students\\Program.cs",
+              "RelativeToolTip": "students\\Program.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAqwMsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:29:11.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

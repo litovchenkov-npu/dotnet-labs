@@ -1,0 +1,12 @@
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\bin\Release\net6.0\students.deps.json
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\bin\Release\net6.0\students.dll
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\bin\Release\net6.0\students.pdb
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\net6.0\students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\net6.0\students.AssemblyInfoInputs.cache
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\net6.0\students.AssemblyInfo.cs
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\net6.0\students.csproj.CoreCompileInputs.cache
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\net6.0\students.sourcelink.json
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\net6.0\students.dll
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\net6.0\refint\students.dll
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\net6.0\students.pdb
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\net6.0\ref\students.dll

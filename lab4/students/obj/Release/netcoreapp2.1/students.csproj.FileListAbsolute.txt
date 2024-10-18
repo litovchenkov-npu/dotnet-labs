@@ -1,0 +1,6 @@
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\netcoreapp2.1\students.csproj.AssemblyReference.cache
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\netcoreapp2.1\students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\netcoreapp2.1\students.AssemblyInfoInputs.cache
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\netcoreapp2.1\students.AssemblyInfo.cs
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\netcoreapp2.1\students.csproj.CoreCompileInputs.cache
+C:\Users\litov\Desktop\dotnet-labs\lab4\students\obj\Release\netcoreapp2.1\students.sourcelink.json

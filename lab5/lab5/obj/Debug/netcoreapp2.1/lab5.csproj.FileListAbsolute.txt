@@ -1,0 +1,15 @@
+C:\Users\litov\source\repos\lab5\lab5\obj\Debug\netcoreapp2.1\lab5.csproj.AssemblyReference.cache
+C:\Users\litov\source\repos\lab5\lab5\obj\Debug\netcoreapp2.1\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\litov\source\repos\lab5\lab5\obj\Debug\netcoreapp2.1\lab5.AssemblyInfoInputs.cache
+C:\Users\litov\source\repos\lab5\lab5\obj\Debug\netcoreapp2.1\lab5.AssemblyInfo.cs
+C:\Users\litov\source\repos\lab5\lab5\obj\Debug\netcoreapp2.1\lab5.csproj.CoreCompileInputs.cache
+C:\Users\litov\source\repos\lab5\lab5\bin\Debug\netcoreapp2.1\lab5.deps.json
+C:\Users\litov\source\repos\lab5\lab5\bin\Debug\netcoreapp2.1\lab5.runtimeconfig.json
+C:\Users\litov\source\repos\lab5\lab5\bin\Debug\netcoreapp2.1\lab5.runtimeconfig.dev.json
+C:\Users\litov\source\repos\lab5\lab5\bin\Debug\netcoreapp2.1\lab5.dll
+C:\Users\litov\source\repos\lab5\lab5\bin\Debug\netcoreapp2.1\lab5.pdb
+C:\Users\litov\source\repos\lab5\lab5\obj\Debug\netcoreapp2.1\lab5.csproj.Up2Date
+C:\Users\litov\source\repos\lab5\lab5\obj\Debug\netcoreapp2.1\lab5.dll
+C:\Users\litov\source\repos\lab5\lab5\obj\Debug\netcoreapp2.1\lab5.pdb
+C:\Users\litov\source\repos\lab5\lab5\obj\Debug\netcoreapp2.1\lab5.genruntimeconfig.cache
+C:\Users\litov\source\repos\lab5\lab5\bin\Debug\netcoreapp2.1\Students.dll
